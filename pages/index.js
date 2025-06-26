@@ -1,9 +1,8 @@
 export default function Home() {
   return (
-    <div style={{ textAlign: "center", padding: "4rem" }}>
-      <h1>Welcome to WellthMatch</h1>
-      <p>This is the starting page for your financial advisor lead gen app.</p>
-      <p>More features coming soon.</p>
-    </div>
+    <main style={{ textAlign: "center", padding: "5rem" }}>
+      <h1>✅ WellthMatch is Live!</h1>
+      <p>This is your homepage. The full quiz will go here next.</p>
+    </main>
   );
 }
